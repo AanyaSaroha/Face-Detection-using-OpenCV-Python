@@ -1,7 +1,7 @@
 # Face-Detection-using-OpenCV-Python
 INTRODUCTION
 
-Face detection is a computer vision technology that involves locating and identifying human faces within digital images or video frames. It is a fundamental step in various applications, such as facial recognition, emotion analysis, biometric identification, video surveillance, and augmented reality.
+Hello everyone here in this project the detection of face is done.Face detection is a computer vision technology that involves locating and identifying human faces within digital images or video frames. It is a fundamental step in various applications, such as facial recognition, emotion analysis, biometric identification, video surveillance, and augmented reality.
 
 The goal of face detection is to detect the presence and location of faces in an image or video. It typically involves analyzing the visual patterns and features of an image to determine whether they correspond to a human face. Face detection algorithms aim to identify facial features, such as eyes, nose, mouth, and the overall face structure, to accurately recognize and localize faces.
 
